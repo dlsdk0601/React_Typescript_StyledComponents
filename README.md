@@ -6,6 +6,7 @@
 
 <br />
 -styled.d.ts
+
 ```
     import "styled-components";
 
